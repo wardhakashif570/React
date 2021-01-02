@@ -1,0 +1,10 @@
+.header{
+  background-color: cadetblue;
+}
+.footer{
+  background-color: cornflowerblue;
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
